@@ -1,5 +1,5 @@
 {
-  "name": "vendor/google-drive-id-extractor",
+  "name": "kazimshah39/google-drive-id-extractor",
   "description": "This extracts the Google Drive file ID from any provided Google Drive link, making it easy to retrieve the ID programmatically. It's lightweight, simple to use, and supports various Google Drive link formats.",
   "type": "library",
   "license": "MIT",
